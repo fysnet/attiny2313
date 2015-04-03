@@ -1,4 +1,4 @@
-
+// http://www.fysnet.net/attiny2313.htm
 #include <avr/io.h>
 #include <avr/interrupt.h>  // for sei()
 
